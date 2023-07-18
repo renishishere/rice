@@ -1,5 +1,7 @@
 # Rice
 
+ ![Picture of arch setup](https://github.com/renishishere/rice/blob/main/arch.jpg)
+
 ## About Rice
 
 This barely qualifies as rice, its really just my arch setup lol.
