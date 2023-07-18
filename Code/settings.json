@@ -1,0 +1,36 @@
+{
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["k", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  // Use and format prettier on save
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // Looks better
+  "window.commandCenter": true,
+  "window.titleBarStyle": "custom",
+  "editor.fontFamily": "'Fira Code', 'monospace', monospace",
+  // Relative numbers
+  "editor.lineNumbers": "relative",
+  // I use zsh
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  // Use system clipboard with vim
+  "vim.useSystemClipboard": true,
+  "editor.inlineSuggest.enabled": true,
+  "cSpell.userWords": ["Dont", "Millis", "Pressable"],
+  "git.autofetch": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "explorer.confirmDragAndDrop": false,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": false
+  },
+  "workbench.colorTheme": "Tokyo Night",
+  "git.confirmSync": false
+}
