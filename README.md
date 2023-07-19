@@ -26,7 +26,7 @@ This barely qualifies as rice, its really just my arch setup lol.
 #### Default packages:
 
 ```bash
-sudo pacman -Syu bspwm picom dunst sxhkd polybar neovim kitty fish feh xsetroot xclip maim
+sudo pacman -Syu bspwm picom dunst sxhkd polybar neovim kitty fish feh xsetroot xclip maim rofi
 chsh -s /bin/fish
 ```
 
